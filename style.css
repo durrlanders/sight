@@ -1,0 +1,53 @@
+body,html{
+  margin: 0px;
+  padding: 0px;
+
+}
+body{
+  background-image: url(backround.png);
+  background-size: 240vw;
+color:#bdbfc1;
+font-size: 2vw;
+  background-position: center top;
+    background-attachment: fixed;
+}
+.maincontainer{
+  margin: 3vmin;
+  margin-top: 12.6vh;
+  margin-left: 5vw;
+  padding: 0px;
+  display: grid;
+  grid-template-columns: 9.6vw 9.3vw 1fr;
+}
+.in{
+font-family: futura-pt-bold, sans-serif;
+font-size: 5em;
+margin-top: -10.8vw;
+margin-bottom: 0vw;
+line-height: 30%;
+  text-shadow: 1px 1px .9vw black;
+    text-shadow: -1px -1px .9vw black;
+
+}
+.isfor{
+font-family: futura-pt-condensed, sans-serif;
+font-size: 3em;
+margin-top: -5.1vw;
+margin-bottom: 0vw;
+margin-bottom: 0vw;
+line-height: 30%;
+  text-shadow: 1px 1px .4vw black;
+    text-shadow: -1px -1px .4vw black;
+
+}
+.output{
+  font-family: futura-pt, sans-serif;
+  font-weight: 600;
+  font-size: 3.6em;
+  margin-top: -7vw;
+  margin-bottom: 0vw;
+  margin-bottom: 0vw;
+  line-height: 30%;
+  text-shadow: 1px 1px .6vw black;
+    text-shadow: -1px -1px .6vw black;
+}
